@@ -8,5 +8,5 @@ $(document).ready(function() {
 */
 // e.g. by JP during jQuery presentation
 $(document).ready(function() {
-  $('#text').html('Hello World!')
+  $('#text').html('Hello World!');
 });
